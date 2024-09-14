@@ -1,0 +1,18 @@
+loops for while do while
+arrays collections
+if 
+switch
+OOP encapsulation abstraction classes inhertence polymorphism
+
+static
+
+methods
+
+delegate
+
+events
+
+event handler method
+
+complete the app
+
